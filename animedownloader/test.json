@@ -1,0 +1,158 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "rel": 0,
+      "anime_id": 8028,
+      "name": "Nanatsu no Taizai: Imashime no Fukkatsu",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-taizai-imashime-no-fukkatsu",
+      "score_count": 233,
+      "score": 9.32,
+      "aired": 1515682431,
+      "episodes": [
+        {
+          "episode_id": 138657,
+          "episode_seo_name": "episode-24",
+          "episode_name": "Episode 24"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 8438,
+      "name": "Nanatsu no Taizai: Kamigami no Gekirin",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-taizai-kamigami-no-gekirin",
+      "score_count": 207,
+      "score": 9.01,
+      "aired": 1571686264,
+      "episodes": [
+        {
+          "episode_id": 145699,
+          "episode_seo_name": "episode-24",
+          "episode_name": "Episode 24"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 7373,
+      "name": "Nanatsu no Taizai",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-taizai",
+      "score_count": 172,
+      "score": 9.31,
+      "aired": 1412583987,
+      "episodes": [
+        {
+          "episode_id": 143131,
+          "episode_seo_name": "ova-3",
+          "episode_name": "OVA 3"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 8256,
+      "name": "Nanatsu no Taizai Movie: Tenkuu no Torawarebito",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-taizai-movie-tenkuu-no-torawarebito",
+      "score_count": 72,
+      "score": 9.08,
+      "aired": 1546251823,
+      "episodes": [
+        {
+          "episode_id": 141926,
+          "episode_seo_name": "the-movie",
+          "episode_name": "The Movie"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 7738,
+      "name": "Nanatsu no Taizai: Seisen no Shirushi",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-taizai-seisen-no-shirushi",
+      "score_count": 56,
+      "score": 9.66,
+      "aired": 1472520675,
+      "episodes": [
+        {
+          "episode_id": 134020,
+          "episode_seo_name": "episode-4",
+          "episode_name": "Episode 4"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 7896,
+      "name": "Sin: Nanatsu no Taizai",
+      "has_image": 1,
+      "seo_name": "sin-nanatsu-no-taizai",
+      "score_count": 16,
+      "score": 8.32,
+      "aired": 1492205001,
+      "episodes": [
+        {
+          "episode_id": 136749,
+          "episode_seo_name": "episode-12",
+          "episode_name": "Episode 12"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 8152,
+      "name": "Nanatsu no Bitoku",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-bitoku",
+      "score_count": 6,
+      "score": 8.5,
+      "aired": 1531595024,
+      "episodes": [
+        {
+          "episode_id": 140073,
+          "episode_seo_name": "episode-2",
+          "episode_name": "Episode 2"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 6103,
+      "name": "Nanatsuiro Drops",
+      "has_image": 1,
+      "seo_name": "nanatsuiro-drops",
+      "score_count": 2,
+      "score": 8.5,
+      "aired": 1364478255,
+      "episodes": [
+        {
+          "episode_id": 95612,
+          "episode_seo_name": "episode-12",
+          "episode_name": "Episode 12"
+        }
+      ]
+    },
+    {
+      "rel": 0,
+      "anime_id": 6158,
+      "name": "Nanatsu no Umi no Tico",
+      "has_image": 1,
+      "seo_name": "nanatsu-no-umi-no-tico",
+      "score_count": 0,
+      "score": 0,
+      "aired": 1364579325,
+      "episodes": [
+        {
+          "episode_id": 96534,
+          "episode_seo_name": "episode-6",
+          "episode_name": "Episode 6"
+        }
+      ]
+    }
+  ]
+}
